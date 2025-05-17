@@ -1,0 +1,6 @@
+require("config.options")
+require("config.lazy")
+require("config.keybindings")
+require("config.colors")
+require("config.autocmds")
+require("config.statusline")

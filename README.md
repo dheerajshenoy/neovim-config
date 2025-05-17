@@ -1,2 +1,3 @@
 # neovim-config
-My neovim text editor configuration
+
+Configuration file for neovim
